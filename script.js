@@ -73,6 +73,6 @@ botao3.addEventListener('click', () => {
 
 const botao4 = document.getElementById('play-sound4');
 botao4.addEventListener('click', () => {
-    sound2.currentTime = 0;
-     sound2.play(); 
+    sound.currentTime = 0;
+     sound.play(); 
  });
